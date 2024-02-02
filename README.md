@@ -1,16 +1,54 @@
-### Hi there 👋
+<!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 
-<!--
-**sshsynth/sshsynth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+```python
+                                  ╔═╗╦ ╦╔╗╔╔╦╗╦ ╦
+                                  ╚═╗╚╦╝║║║ ║ ╠═╣
+                                  ╚═╝ ╩ ╝╚╝ ╩ ╩ ╩
+                        ═╦═══════════════════════════════╦═
+                         ║      Powered By @sshsynth     ║ 
+                         ╚═════════╦═══════════╦═════════╝ 
+                            ╔══════╩═══════════╩══════╗     
+                          ╔═╣  Connected To Synth C2  ╠═╗    
+                          ║ ╚═════╦═════════════╦═════╝ ║  
+                    ╔═════╩═══════╩═════════════╩═══════╩══════╗ 
+                    ║        https://guns.lol/sshsynth         ║
+                    ║        https://discord.gg/synth          ║
+                    ╚══════════════════════════════════════════╝
+  
+```
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
